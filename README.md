@@ -24,8 +24,6 @@ For more information about the course, including lectures, assignments, and reso
 
 Plenty of projects are located in this repository.
 
-...
-
 ## Usage
 
 Each project directory contains its own report file with detailed instructionsand reproduce the results.
